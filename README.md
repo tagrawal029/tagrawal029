@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm Tanush Agrawal 👋
 
-### ECE Honors & Business Honors @ UT Austin | Builder | BCI Researcher | AI x Healthcare
+### ECE & Business Honors @ UT Austin | Builder | BCI Researcher | AI x Healthcare
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanush-agrawal-353058292/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanush_agr)
@@ -33,6 +33,23 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 | **Elevate Tutoring** | Private STEM tutoring practice for high schoolers — personalized lesson plans, progress tracking, scheduling & billing |
 | **Summit Digital Solutions** | Freelance consultancy — built a Python/SQL/Power BI analytics dashboard; redesigned client sites, cutting load time by 35% |
 | **BCI Research (UCF)** | Framework for EEG-to-text conversion using LLMs, built on a review of 300+ papers; preparing findings for publication |
+
+---
+
+## 💡 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**NBA Playoff Predictions Simulator**](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Interactive playoff prediction simulator with player-level injury overrides, official standings, play-in logic, and Monte Carlo title odds |
+| [**Pong**](https://github.com/tagrawal029/Pong) | Classic Pong game with ball physics, paddle controls, and score tracking |
+| [**Falling Sand**](https://github.com/tagrawal029/FallingSand) | Falling sand physics simulation with interactive particle display |
+| [**Harbor Me Game**](https://github.com/tagrawal029/Harbor-Me-Game) | Interactive game with quiz and final game modes |
+| [**Hangman**](https://github.com/tagrawal029/Hangman) | Classic Hangman word-guessing game |
+| [**Hangman (Turtle Graphics)**](https://github.com/tagrawal029/Hangman-Turtle) | Hangman game built with Python Turtle graphics |
+| [**GUI Example**](https://github.com/tagrawal029/GUI-Example) | Example GUI application built in Python |
+| [**Guess the Number**](https://github.com/tagrawal029/Guess-the-Number-game) | Number guessing game with user input and win/lose logic |
+
+**Also on GitHub:** [Turtle Graphics Projects](https://github.com/tagrawal029/turtle-graphics-projects) · [Java Coursework](https://github.com/tagrawal029/java-coursework) · [Python Practice](https://github.com/tagrawal029/python-practice)
 
 ---
 
@@ -70,7 +87,7 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 
 ## 🏆 Honors & Awards
 
-- 🥇 Chi Am Circle Scholarship 
+- 🥇 Gold Award (Girl Scouts-equivalent highest distinction)
 - 🌟 Dr. Jerry Hiura Inspirational Award
 - 🏆 First Place Champion
 - 📜 Research Award, Verbal Commendation
