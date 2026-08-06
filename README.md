@@ -40,6 +40,7 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 
 | Project | Description |
 |---|---|
+| [**NVDA Stock Price Predictor**](https://github.com/tagrawal029/nvda-stock-predictor) | Time-series forecasting model (Prophet) applying ML techniques to financial data, with confidence-interval visualization |
 | [**NBA Playoff Predictions Simulator**](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Interactive playoff prediction simulator with player-level injury overrides, official standings, play-in logic, and Monte Carlo title odds |
 | [**Pong**](https://github.com/tagrawal029/Pong) | Classic Pong game with ball physics, paddle controls, and score tracking |
 | [**Falling Sand**](https://github.com/tagrawal029/FallingSand) | Falling sand physics simulation with interactive particle display |
@@ -66,6 +67,7 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Prophet](https://img.shields.io/badge/Prophet-3B4252?style=for-the-badge&logo=meta&logoColor=white)
 
 **Cloud & Infra**
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
