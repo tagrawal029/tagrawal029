@@ -89,9 +89,9 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 
 ## 🏆 Honors & Awards
 
-- 🥇 Gold Award (Girl Scouts-equivalent highest distinction)
+- 🥇 Chi Am Circle Scholarship 
 - 🌟 Dr. Jerry Hiura Inspirational Award
-- 🏆 First Place Champion
+- 🏆 First Place Champion, Ocean Science Bowl
 - 📜 Research Award, Verbal Commendation
 - ✅ Python, GitHub & Embedded Security Course Completion
 
