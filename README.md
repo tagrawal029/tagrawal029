@@ -40,6 +40,7 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 
 | Project | Description |
 |---|---|
+| [**myTA**](https://github.com/tagrawal029/myTA) | Desktop study buddy (Electron, TypeScript, Gemini) that sits on top of your notes, reads the homework problem, points out the exact step that's wrong, and gives hints and short videos instead of answers. Started at HackTX 2026 |
 | [**NVDA Stock Price Predictor**](https://github.com/tagrawal029/nvda-stock-predictor) | Time-series forecasting model (Prophet) applying ML techniques to financial data, with confidence-interval visualization |
 | [**NBA Playoff Predictions Simulator**](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Interactive playoff prediction simulator with player-level injury overrides, official standings, play-in logic, and Monte Carlo title odds |
 | [**Pong**](https://github.com/tagrawal029/Pong) | Classic Pong game with ball physics, paddle controls, and score tracking |
@@ -61,6 +62,7 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **AI / ML & Data**
