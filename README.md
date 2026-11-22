@@ -40,7 +40,8 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 
 | Project | Description |
 |---|---|
-| [**myTA**](https://github.com/tagrawal029/myTA) | Desktop study buddy (Electron, TypeScript, Gemini) that sits on top of your notes, reads the homework problem, points out the exact step that's wrong, and gives hints and short videos instead of answers. Started at HackTX 2026 |
+| [**Odyssey Dojo**](https://github.com/tagrawal029/odyssey-dojo) 🥇 | **Winner, MLH Best Use of Tiger Data at HackUTA 2026.** Browser fighting game that teaches self-defense with your body as the controller: MediaPipe pose tracking, a Training Dojo that grades every move and gives one tip, online rooms, and a FaceTime-call mode (LiveKit + Chert). React, TypeScript, three.js, Tiger Data. Built with a 4-person team · [Play it](https://odysseydojo.club) · [Devpost](https://devpost.com/software/oddysey-fighter) |
+| [**myTA**](https://github.com/tagrawal029/myTA) | Desktop study buddy (Electron, TypeScript, Gemini) that sits on top of your notes, reads the homework problem, points out the exact step that's wrong, and gives hints and short videos instead of answers. Started at HackTX 2026 · [Devpost](https://devpost.com/software/myta) |
 | [**NVDA Stock Price Predictor**](https://github.com/tagrawal029/nvda-stock-predictor) | Time-series forecasting model (Prophet) applying ML techniques to financial data, with confidence-interval visualization |
 | [**NBA Playoff Predictions Simulator**](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Interactive playoff prediction simulator with player-level injury overrides, official standings, play-in logic, and Monte Carlo title odds |
 | [**Pong**](https://github.com/tagrawal029/Pong) | Classic Pong game with ball physics, paddle controls, and score tracking |
