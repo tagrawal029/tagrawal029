@@ -2,7 +2,7 @@
 
 # Hi, I'm Tanush Agrawal 👋
 
-### ECE & Business Honors @ UT Austin | Builder | BCI Researcher | AI x Healthcare
+### ECE + Business Honors @ UT Austin | Product Engineering | Hackathons & Startups
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanush-agrawal-353058292/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanush_agr)
@@ -14,49 +14,45 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a builder at heart who uses creativity to invent and inspire. My work sits at the intersection of **electrical/computer engineering**, **AI**, and **entrepreneurship** — from researching brain-computer interfaces to pitching hardware startups.
+I'm studying Electrical & Computer Engineering (Honors) and Business (Canfield Business Honors) at UT Austin. I like working on both sides of a product. I want to build the technology, but I also want to figure out who it's for, why it matters, and where it should go next.
 
-- 🔬 Researching methods to convert **EEG brain waves into text** and integrating **LLMs into BCIs** at the University of Central Florida
-- 🚁 Designed and 3D-printed a **hydrogen-powered drone** prototype with an AI wildfire-risk assessment pipeline (UC Berkeley M.E.T. Innovation Academy)
-- 💼 Founded and run two independent ventures: a **STEM tutoring practice** and a **freelance analytics/web consultancy**
-- 🎓 Studying **Electrical & Computer Engineering (Honors)** and **Business Administration (Canfield Business Honors)** at UT Austin
-- 🎯 Long-term goal: advance **AI-driven healthcare devices**
+That's why I'm drawn to product engineering. For me, the fun part is not just getting a prototype to work, but turning it into something people actually use and then making it better with every version. Most of what I build starts at a hackathon or as a side project, and the best ones keep going after the weekend is over.
+
+- Researching how to turn EEG brain signals into text and how LLMs can fit into brain-computer interfaces at the University of Central Florida
+- Designed and 3D-printed a hydrogen-powered drone prototype with an AI wildfire-risk model at the UC Berkeley M.E.T. Innovation Academy
+- Started and run Elevate Tutoring, a STEM tutoring practice for high schoolers
+- Building hackathon and startup projects, most recently Odyssey Dojo (Best Use of Tiger Data winner at HackUTA 2026) and myTA (HackTX 2026)
+
+Long term, I want to work where engineering and business decisions get made together: setting the vision for a product, building it with a strong team, and improving it based on how people use it.
 
 ---
 
-## 🛠️ What I'm Working On
+## What I'm Working On
 
-| Venture | Description |
+| Project | What it is |
 |---|---|
-| **Elevate Tutoring** | Private STEM tutoring practice for high schoolers — personalized lesson plans, progress tracking, scheduling & billing |
-| **Summit Digital Solutions** | Freelance consultancy — built a Python/SQL/Power BI analytics dashboard; redesigned client sites, cutting load time by 35% |
-| **BCI Research (UCF)** | Framework for EEG-to-text conversion using LLMs, built on a review of 300+ papers; preparing findings for publication |
+| Elevate Tutoring | My STEM tutoring practice for high school students. I run all of it, from lesson plans and progress tracking to scheduling and billing. |
+| BCI Research (UCF) | A framework for converting EEG signals into text using LLMs, built on a review of 300+ papers. I'm currently preparing the findings for publication. |
+| Hackathon + Startup Projects | Taking ideas from a weekend build to a real product. Right now that means Odyssey Dojo and myTA, along with startup projects I'm working on outside of class. |
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| [**Odyssey Dojo**](https://github.com/tagrawal029/odyssey-dojo) 🥇 | **Winner, MLH Best Use of Tiger Data at HackUTA 2026.** Browser fighting game that teaches self-defense with your body as the controller: MediaPipe pose tracking, a Training Dojo that grades every move and gives one tip, online rooms, and a FaceTime-call mode (LiveKit + Chert). React, TypeScript, three.js, Tiger Data. Built with a 4-person team · [Play it](https://odysseydojo.club) · [Devpost](https://devpost.com/software/oddysey-fighter) |
-| [**myTA**](https://github.com/tagrawal029/myTA) | Desktop study buddy (Electron, TypeScript, Gemini) that sits on top of your notes, reads the homework problem, points out the exact step that's wrong, and gives hints and short videos instead of answers. Started at HackTX 2026 · [Devpost](https://devpost.com/software/myta) |
-| [**NVDA Stock Price Predictor**](https://github.com/tagrawal029/nvda-stock-predictor) | Time-series forecasting model (Prophet) applying ML techniques to financial data, with confidence-interval visualization |
-| [**NBA Playoff Predictions Simulator**](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Interactive playoff prediction simulator with player-level injury overrides, official standings, play-in logic, and Monte Carlo title odds |
-| [**Pong**](https://github.com/tagrawal029/Pong) | Classic Pong game with ball physics, paddle controls, and score tracking |
-| [**Falling Sand**](https://github.com/tagrawal029/FallingSand) | Falling sand physics simulation with interactive particle display |
-| [**Harbor Me Game**](https://github.com/tagrawal029/Harbor-Me-Game) | Interactive game with quiz and final game modes |
-| [**Hangman**](https://github.com/tagrawal029/Hangman) | Classic Hangman word-guessing game |
-| [**Hangman (Turtle Graphics)**](https://github.com/tagrawal029/Hangman-Turtle) | Hangman game built with Python Turtle graphics |
-| [**GUI Example**](https://github.com/tagrawal029/GUI-Example) | Example GUI application built in Python |
-| [**Guess the Number**](https://github.com/tagrawal029/Guess-the-Number-game) | Number guessing game with user input and win/lose logic |
+| [Odyssey Dojo](https://github.com/tagrawal029/odyssey-dojo) 🥇 | Won Best Use of Tiger Data at HackUTA 2026. A browser fighting game that teaches real self-defense, where your webcam is the controller. It tracks your body with MediaPipe, grades every move in a Training Dojo, and supports online rooms and a FaceTime mode. Built with a team of four using React, TypeScript, three.js and Tiger Data. [Play it](https://odysseydojo.club) · [Devpost](https://devpost.com/software/oddysey-fighter) |
+| [myTA](https://github.com/tagrawal029/myTA) | A desktop study buddy that sits on top of your notes while you do homework. It reads the problem, boxes the exact step where you went wrong, and gives you hints or a short video instead of the answer. Electron, TypeScript and Gemini. Started at HackTX 2026. [Devpost](https://devpost.com/software/myta) |
+| [NBA Playoff Predictions Simulator](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Predicts NBA games and runs 20,000 playoff simulations to estimate title odds. You can sit or return injured players and watch the bracket change. Python, Streamlit and Supabase. |
+| [NVDA Stock Price Predictor](https://github.com/tagrawal029/nvda-stock-predictor) | Forecasts NVIDIA's stock price with Meta's Prophet model using about 2.5 years of daily data, plotted with confidence intervals. |
 
-**Also on GitHub:** [Turtle Graphics Projects](https://github.com/tagrawal029/turtle-graphics-projects) · [Java Coursework](https://github.com/tagrawal029/java-coursework) · [Python Practice](https://github.com/tagrawal029/python-practice)
+Smaller projects and coursework: [Falling Sand](https://github.com/tagrawal029/FallingSand) · [Pong](https://github.com/tagrawal029/Pong) · [Harbor Me Quiz](https://github.com/tagrawal029/Harbor-Me-Game) · [Hangman](https://github.com/tagrawal029/Hangman) · [Hangman (Turtle)](https://github.com/tagrawal029/Hangman-Turtle) · [Guess the Number](https://github.com/tagrawal029/Guess-the-Number-game) · [GUI Example](https://github.com/tagrawal029/GUI-Example) · [Dictionary](https://github.com/tagrawal029/dictionary) · [Turtle Graphics](https://github.com/tagrawal029/turtle-graphics-projects) · [Java Coursework](https://github.com/tagrawal029/java-coursework) · [Python Practice](https://github.com/tagrawal029/python-practice)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -86,21 +82,22 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 **Core Skills**
-`Data-flow Diagrams` · `Computational Mathematics` · `Embedded Systems Security` · `Independent Project Development`
+`Product Engineering` · `Embedded Systems Security` · `Data-flow Diagrams` · `Computational Mathematics`
 
 ---
 
-## 🏆 Honors & Awards
+## Honors & Awards
 
-- 🥇 Chi Am Circle Scholarship 
-- 🌟 Dr. Jerry Hiura Inspirational Award
-- 🏆 First Place Champion, Ocean Science Bowl
-- 📜 Research Award, Verbal Commendation
-- ✅ Python, GitHub & Embedded Security Course Completion
+- 🥇 Best Use of Tiger Data, HackUTA 2026 (Odyssey Dojo)
+- Chi Am Circle Scholarship
+- Dr. Jerry Hiura Inspirational Award
+- First Place, Ocean Science Bowl
+- Research Award, Verbal Commendation
+- Python, GitHub & Embedded Security course completions
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -114,7 +111,7 @@ I'm a builder at heart who uses creativity to invent and inspire. My work sits a
 
 ---
 
-## 🎓 Education
+## Education
 
 **The University of Texas at Austin**
 B.S. Electrical & Computer Engineering (Honors) · B.B.A. Canfield Business Honors
@@ -125,6 +122,6 @@ B.S. Electrical & Computer Engineering (Honors) · B.B.A. Canfield Business Hono
 
 <div align="center">
 
-*Building at the intersection of hardware, AI, and healthcare — always open to connect!*
+Always happy to talk about building products, startups, or your next hackathon idea. Feel free to reach out!
 
 </div>
