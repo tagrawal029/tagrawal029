@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tanush Agrawal 👋
+# Hi, I'm Tanush Agrawal
 
 ### ECE + Business Honors @ UT Austin | Product Engineering | Hackathons & Startups
 
@@ -20,10 +20,7 @@ I'm studying Electrical & Computer Engineering (Honors) and Business (Canfield B
 
 That's why I'm drawn to product engineering. For me, the fun part is not just getting a prototype to work, but turning it into something people actually use and then making it better with every version. Most of what I build starts at a hackathon or as a side project, and the best ones keep going after the weekend is over.
 
-- Researching how to turn EEG brain signals into text and how LLMs can fit into brain-computer interfaces at the University of Central Florida
-- Designed and 3D-printed a hydrogen-powered drone prototype with an AI wildfire-risk model at the UC Berkeley M.E.T. Innovation Academy
-- Started and run Elevate Tutoring, a STEM tutoring practice for high schoolers
-- Building hackathon and startup projects, most recently Odyssey Dojo (Best Use of Tiger Data winner at HackUTA 2026) and myTA (HackTX 2026)
+Right now I'm researching how to turn EEG brain signals into text, and how LLMs can fit into brain-computer interfaces, at the University of Central Florida. I also started and run Elevate Tutoring, a STEM tutoring practice for high schoolers. Before UT, I designed and 3D-printed a hydrogen-powered drone prototype with an AI wildfire-risk model at the UC Berkeley M.E.T. Innovation Academy. Most recently, I built Odyssey Dojo, which won Best Use of Tiger Data at HackUTA 2026, and myTA at HackTX 2026.
 
 Long term, I want to work where engineering and business decisions get made together: setting the vision for a product, building it with a strong team, and improving it based on how people use it.
 
@@ -43,7 +40,7 @@ Long term, I want to work where engineering and business decisions get made toge
 
 | Project | Description |
 |---|---|
-| [Odyssey Dojo](https://github.com/tagrawal029/odyssey-dojo) 🥇 | Won Best Use of Tiger Data at HackUTA 2026. A browser fighting game that teaches real self-defense, where your webcam is the controller. It tracks your body with MediaPipe, grades every move in a Training Dojo, and supports online rooms and a FaceTime mode. Built with a team of four using React, TypeScript, three.js and Tiger Data. [Play it](https://odysseydojo.club) · [Devpost](https://devpost.com/software/oddysey-fighter) |
+| [Odyssey Dojo](https://github.com/tagrawal029/odyssey-dojo) | Won Best Use of Tiger Data at HackUTA 2026. A browser fighting game that teaches real self-defense, where your webcam is the controller. It tracks your body with MediaPipe, grades every move in a Training Dojo, and supports online rooms and a FaceTime mode. Built with a team of four using React, TypeScript, three.js and Tiger Data. [Play it](https://odysseydojo.club) · [Devpost](https://devpost.com/software/oddysey-fighter) |
 | [myTA](https://github.com/tagrawal029/myTA) | A desktop study buddy that sits on top of your notes while you do homework. It reads the problem, boxes the exact step where you went wrong, and gives you hints or a short video instead of the answer. Electron, TypeScript and Gemini. Started at HackTX 2026. [Devpost](https://devpost.com/software/myta) |
 | [NBA Playoff Predictions Simulator](https://github.com/tagrawal029/nba-playoff-predictions-simulator-app) | Predicts NBA games and runs 20,000 playoff simulations to estimate title odds. You can sit or return injured players and watch the bracket change. Python, Streamlit and Supabase. |
 | [NVDA Stock Price Predictor](https://github.com/tagrawal029/nvda-stock-predictor) | Forecasts NVIDIA's stock price with Meta's Prophet model using about 2.5 years of daily data, plotted with confidence intervals. |
@@ -88,12 +85,12 @@ Smaller projects and coursework: [Falling Sand](https://github.com/tagrawal029/F
 
 ## Honors & Awards
 
-- 🥇 Best Use of Tiger Data, HackUTA 2026 (Odyssey Dojo)
-- Chi Am Circle Scholarship
-- Dr. Jerry Hiura Inspirational Award
-- First Place, Ocean Science Bowl
-- Research Award, Verbal Commendation
-- Python, GitHub & Embedded Security course completions
+Best Use of Tiger Data, HackUTA 2026 (Odyssey Dojo)<br>
+Chi Am Circle Scholarship<br>
+Dr. Jerry Hiura Inspirational Award<br>
+First Place, Ocean Science Bowl<br>
+Research Award, Verbal Commendation<br>
+Python, GitHub & Embedded Security course completions
 
 ---
 
