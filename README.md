@@ -20,7 +20,12 @@ I'm studying Electrical & Computer Engineering (Honors) and Business (Canfield B
 
 That's why I'm drawn to product engineering. For me, the fun part is not just getting a prototype to work, but turning it into something people actually use and then making it better with every version. Most of what I build starts at a hackathon or as a side project, and the best ones keep going after the weekend is over.
 
-Right now I'm researching how to turn EEG brain signals into text, and how LLMs can fit into brain-computer interfaces, at the University of Central Florida. I also started and run Elevate Tutoring, a STEM tutoring practice for high schoolers. Before UT, I designed and 3D-printed a hydrogen-powered drone prototype with an AI wildfire-risk model at the UC Berkeley M.E.T. Innovation Academy. Most recently, I built Odyssey Dojo, which won Best Use of Tiger Data at HackUTA 2026, and myTA at HackTX 2026.
+- Taking hackathon and startup projects from idea to real product
+- Won Best Use of Tiger Data at HackUTA 2026 with Odyssey Dojo
+- Built myTA, a desktop study buddy, at HackTX 2026
+- Started and run Elevate Tutoring Services, a STEM tutoring business
+- Researched EEG-to-text with LLMs for brain-computer interfaces at UCF
+- Designed a hydrogen-powered drone at the UC Berkeley M.E.T. Innovation Academy
 
 Long term, I want to work where engineering and business decisions get made together: setting the vision for a product, building it with a strong team, and improving it based on how people use it.
 
@@ -30,9 +35,9 @@ Long term, I want to work where engineering and business decisions get made toge
 
 | Project | What it is |
 |---|---|
-| Elevate Tutoring | My STEM tutoring practice for high school students. I run all of it, from lesson plans and progress tracking to scheduling and billing. |
-| BCI Research (UCF) | A framework for converting EEG signals into text using LLMs, built on a review of 300+ papers. I'm currently preparing the findings for publication. |
-| Hackathon + Startup Projects | Taking ideas from a weekend build to a real product. Right now that means Odyssey Dojo and myTA, along with startup projects I'm working on outside of class. |
+| Elevate Tutoring Services | My STEM tutoring business for high school students. I run all of it, from lesson plans and progress tracking to scheduling and billing. |
+| Hackathon Projects | Taking ideas from a weekend build to something people can actually use. Right now that means Odyssey Dojo and myTA. |
+| Startup Projects | Working on startup ideas outside of class, where I get to handle both the product and the business side. |
 
 ---
 
@@ -85,12 +90,12 @@ Smaller projects and coursework: [Falling Sand](https://github.com/tagrawal029/F
 
 ## Honors & Awards
 
-Best Use of Tiger Data, HackUTA 2026 (Odyssey Dojo)<br>
-Chi Am Circle Scholarship<br>
-Dr. Jerry Hiura Inspirational Award<br>
-First Place, Ocean Science Bowl<br>
-Research Award, Verbal Commendation<br>
-Python, GitHub & Embedded Security course completions
+- Best Use of Tiger Data, HackUTA 2026 (Odyssey Dojo)
+- Chi Am Circle Scholarship
+- Dr. Jerry Hiura Inspirational Award
+- First Place, Ocean Science Bowl
+- Research Award, Verbal Commendation
+- Python, GitHub & Embedded Security course completions
 
 ---
 
